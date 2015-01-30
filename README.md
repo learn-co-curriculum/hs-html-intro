@@ -4,6 +4,7 @@ languages: html
 type: intro
 ---
 ### Students Will Be Able To...
+YOYOYO
 + **Structure an HTML page** using doctype, html, head, title, and body tags
 + Add an **image, link, paragraph text, and header text** to a page
 + Create an **ordered and unordered list** using the ol, ul, li tags
