@@ -1,8 +1,4 @@
----
-tags: intro, html, kids
-languages: html
-type: intro
----
+
 ### Students Will Be Able To...
 + **Structure an HTML page** using doctype, html, head, title, and body tags
 + Add an **image, link, paragraph text, and header text** to a page
