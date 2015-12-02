@@ -14,3 +14,5 @@ HTML has a specific syntax that's a bit different from Ruby, but you'll get a ha
 ```html
 <title> My Awesome Webpage </title>
 ```
+
+<a href='https://learn.co/lessons/hs-html-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
